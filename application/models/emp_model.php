@@ -6,7 +6,7 @@ class emp_model extends CI_Model{
     function __construct(){
         parent::__construct();
     }
-    
+    // Hi Neha!!!
    public function submitData($emp_name, $emp_email, $emp_desig, $emp_contact, $emp_bg)
    {		
    		 
