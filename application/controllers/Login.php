@@ -7,7 +7,7 @@ class Login extends CI_Controller{
     function __construct(){
         parent::__construct();
     }
-
+	//create new file
     public function index(){
         // Load our view to be displayed
         // to the user
